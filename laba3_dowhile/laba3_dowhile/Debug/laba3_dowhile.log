@@ -1,0 +1,3 @@
+﻿  dowhilefindfirstnegativeelement.cpp
+C:\Users\Maksim\source\repos\laba3_dowhile\laba3_dowhile\dowhilefindfirstnegativeelement.cpp(28): warning C4715: findFirstNegativeElement: значение возвращается не при всех путях выполнения
+  laba3_dowhile.vcxproj -> C:\Users\Maksim\source\repos\laba3_dowhile\Debug\laba3_dowhile.exe
